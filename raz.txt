@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ssssssssawwad
+=======
+awwadsssssssss
+>>>>>>> all
